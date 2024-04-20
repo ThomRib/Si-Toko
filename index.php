@@ -4,4 +4,5 @@
 
 
     //membuat menu
+    //membuat banner
 ?>
