@@ -8,5 +8,7 @@
 	        return $ss->query($q);
 	        $ss->close();
     	}
+
+	//fungsi crud
 	
 ?>
