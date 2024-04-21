@@ -5,4 +5,5 @@
 
     //membuat menu
     //membuat banner
+    //membuat form
 ?>
