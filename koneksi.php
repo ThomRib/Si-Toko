@@ -10,5 +10,5 @@
     	}
 
 	//fungsi crud
-	
+	//fungsi diskon
 ?>
