@@ -14,7 +14,7 @@
 
 	// fungsi diskon
 
-        //fungsi tambah
+        // fungsi tambah
 
         //fungsi kurang
 
