@@ -16,7 +16,7 @@
 
         // fungsi tambah
 
-        //fungsi kurang
+        // fungsi kurang
 
         //fungsi select
 
