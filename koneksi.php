@@ -18,6 +18,6 @@
 
         // fungsi kurang
 
-        //fungsi select
+        // fungsi select
 
 ?>
