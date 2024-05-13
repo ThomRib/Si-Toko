@@ -12,7 +12,7 @@
 
 	// fungsi crud
 
-	//fungsi diskon
+	// fungsi diskon
 
         //fungsi tambah
 
